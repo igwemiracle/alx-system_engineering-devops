@@ -1,1 +1,2 @@
-VimCrypt~03!ã…Ø¢ô2dÍ1GuT;é6‚—"Ø#u#wÉûZyX/„7uñÂ
+#!/bin/bash
+chmod -R ugo+X
