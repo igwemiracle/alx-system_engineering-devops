@@ -1,1 +1,4 @@
-Task 0: Where am I?
+This Repository contains Projects directory namely:
+  0x00-shell_basics
+  0x01-shell_permissions
+  0x02-shell_redirections
